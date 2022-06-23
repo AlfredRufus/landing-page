@@ -140,6 +140,8 @@ h1 {
   width: 100%;
   display: flex;
   justify-content: space-around;
+  
+  
 }
 
 .bluebox {
@@ -177,4 +179,20 @@ h1 {
   align-items: center;
   justify-content: space-around;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+  background-color: #1f2937;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+
+}
+
+.fcontent{
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  
 }
